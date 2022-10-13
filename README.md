@@ -1,2 +1,2 @@
-# Ciencia-de-datos-2
-Portafolio de evidencias de curso de ciencia de datos PROYECTO FINAL 2
+# Data science 2
+Data Science Course Evidence Portfolio FINAL PROJECT 2
